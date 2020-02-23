@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/javaweb-01-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-01-servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-02-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-02-servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-03-request/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-03-request/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-04-cookie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-04-cookie/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-05-session/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-05-session/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-06-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-06-filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-07-listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaweb-07-listener/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
